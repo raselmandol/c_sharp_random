@@ -1,0 +1,3 @@
+//Create a new class for this GradientColorBack
+//Add the code,you can use Bottom and Top or Starting and Ending Color as for( FillRectangle )
+//Add in ToolBox
