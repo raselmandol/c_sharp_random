@@ -1,0 +1,2 @@
+//Note that I will try to give here to do operations with database in several ways
+//If you find any problem here or have any better way(idea) you can Pull a request about that.
