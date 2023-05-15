@@ -1,0 +1,3 @@
+//If you face any issue with this MongoDB connect
+//see the QUICK START here
+//https://www.mongodb.com/blog/post/quick-start-c-sharp-and-mongodb-starting-and-setup
