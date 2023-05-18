@@ -1,0 +1,2 @@
+//Common ways to do these things in this c_sharp_random folder
+//You can see documentation from microsoft .net documentation
