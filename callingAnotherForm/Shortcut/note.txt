@@ -1,0 +1,5 @@
+//sometimes we want to add a secret form that will be opened by keyboard key pressing
+//example
+//In my application, I want to add about contributors, I will add a secret form for that.
+//Key for calling/opening that form
+//CNTRL + C
