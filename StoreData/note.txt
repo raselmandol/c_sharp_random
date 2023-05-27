@@ -1,0 +1,2 @@
+//store data in database from several sources 
+//rg. rich text box,text box etc
