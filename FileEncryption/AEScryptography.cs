@@ -14,6 +14,7 @@ class Program
 
         Console.WriteLine("Encrypted Text: " + encryptedText);
 
+        //decrypted text
         string decryptedText = Decrypt(encryptedBytes, key);
         Console.WriteLine("Decrypted Text: " + decryptedText);
     }
