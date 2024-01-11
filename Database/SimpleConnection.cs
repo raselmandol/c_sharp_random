@@ -10,6 +10,7 @@ class Program
 
         try
         {
+            //connection, connect
             connection.Open();
             Console.WriteLine("Connection successful!");
         }
@@ -19,6 +20,7 @@ class Program
         }
         finally
         {
+            //close connection
             connection.Close();
         }
 
