@@ -22,7 +22,7 @@ class Program
             int rowsAffected = insertCommand.ExecuteNonQuery();
             Console.WriteLine(rowsAffected + " rows inserted.");
 
-           //Data deletation
+           //delete data
             string deleteSql = "DELETE FROM TableName WHERE Column1 = @Value1";
             SqlCommand deleteCommand = new SqlCommand(deleteSql, connection);
             deleteCommand.Parameters.AddWithValue("@Value1", "Hello");
