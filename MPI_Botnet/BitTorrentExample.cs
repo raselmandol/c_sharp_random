@@ -18,6 +18,7 @@ public class TorrentClient
 
     public void Start()
     {
+        //start new listener 
         listener = new TcpListener(IPAddress.Any, Port);
         listener.Start();
 
